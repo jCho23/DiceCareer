@@ -41,7 +41,9 @@ namespace DiceCareer
 			app.Screenshot("Then we Tapped on the 'Skip' Button");
 
 			app.Tap("ll_dashboard_search_main");
+			app.Screenshot("Next we Tapped on the 'Search Banner' middle icon");
 			app.Back();
+			app.Screenshot("We Tapped the 'Back' Button");
 
 			app.Tap("navigation");
 			app.Screenshot("We Tapped on the 'Hamburger Icon' Button");
