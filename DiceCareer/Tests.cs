@@ -38,6 +38,10 @@ namespace DiceCareer
 			app.Tap("intro_btn_skip");
 
 			app.Tap("ll_dashboard_search_main");
+			app.Back();
+
+			app.Tap("navigation");
+			app.Screenshot("We Tapped on the 'Hamburger Icon' Button");
 
 		}
 	}
