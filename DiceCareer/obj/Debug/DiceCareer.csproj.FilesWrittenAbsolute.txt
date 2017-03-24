@@ -1,0 +1,7 @@
+/Users/junecho/Projects/DiceCareer/DiceCareer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/DiceCareer/DiceCareer/bin/Debug/DiceCareer.dll.mdb
+/Users/junecho/Projects/DiceCareer/DiceCareer/bin/Debug/DiceCareer.dll
+/Users/junecho/Projects/DiceCareer/DiceCareer/obj/Debug/DiceCareer.dll
+/Users/junecho/Projects/DiceCareer/DiceCareer/obj/Debug/DiceCareer.dll.mdb
+/Users/junecho/Projects/DiceCareer/DiceCareer/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/DiceCareer/DiceCareer/bin/Debug/Xamarin.UITest.dll

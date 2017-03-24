@@ -26,9 +26,9 @@ namespace DiceCareer
 		}
 
 		[Test]
-		public void AppLaunches()
+		public void Repl()
 		{
-			app.Screenshot("First screen.");
+			app.Repl();
 		}
 	}
 }
