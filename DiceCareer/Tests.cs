@@ -59,15 +59,15 @@ namespace DiceCareer
 
 			app.Tap("Settings");
 			app.Screenshot("Then we Tapped on the 'Settings' Button");
-			app.Tap("tl_notification");
-			app.Screenshot("We Toggled the 'Notification' Switch off");
-			app.Tap("tl_loc_service");
-			app.Screenshot("We Toggled the 'Location Service' Switch off");
+			//app.Tap("tl_notification");
+			//app.Screenshot("We Toggled the 'Notification' Switch off");
+			//app.Tap("tl_loc_service");
+			//app.Screenshot("We Toggled the 'Location Service' Switch off");
 
-			app.Tap("tv_privacy_policy");
-			app.Screenshot("We Toggled the 'Privacy Policy' Switch off");
-			app.ScrollDown();
-			app.Screenshot("Then we scrolled down the page");
+			//app.Tap("tv_privacy_policy");
+			//app.Screenshot("We Toggled the 'Privacy Policy' Switch off");
+			//app.ScrollDown();
+			//app.Screenshot("Then we scrolled down the page");
 		}
 	}
 }
