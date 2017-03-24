@@ -47,6 +47,13 @@ namespace DiceCareer
 			app.ScrollDown();
 			app.Back();
 
+			app.Tap("Settings");
+
+			app.Tap("tl_notification");
+			app.Tap("tl_loc_service");
+
+
+
 		}
 	}
 }
