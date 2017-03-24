@@ -4,6 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
+using System.Threading;
 
 namespace DiceCareer
 {
@@ -47,6 +48,7 @@ namespace DiceCareer
 
 			app.Tap("navigation");
 			app.Screenshot("We Tapped on the 'Hamburger Icon' Button");
+			Thread.Sleep(4000);
 
 			app.Tap("Job Search");
 			app.Screenshot("Then we Tapped on the 'Job Search' Button");
