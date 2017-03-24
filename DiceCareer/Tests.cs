@@ -49,8 +49,11 @@ namespace DiceCareer
 			app.Screenshot("We Tapped on the 'Hamburger Icon' Button");
 
 			app.Tap("Job Search");
+			app.Screenshot("Then we Tapped on the 'Job Search' Button");
 			app.ScrollDown();
+			app.Screenshot("Then we Scrolled down for more information");
 			app.Back();
+			app.Screenshot("We Tapped the 'Back' Button");
 
 			app.Tap("Settings");
 			app.Tap("tl_notification");
