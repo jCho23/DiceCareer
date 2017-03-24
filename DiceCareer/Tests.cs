@@ -36,7 +36,9 @@ namespace DiceCareer
 		public void FirstTest()
 		{
 			app.Tap("intro_btn_next");
+			app.Screenshot("Let's start by Tapping on the 'Next' Button");
 			app.Tap("intro_btn_skip");
+			app.Screenshot("Then we Tapped on the 'Skip' Button");
 
 			app.Tap("ll_dashboard_search_main");
 			app.Back();
