@@ -48,12 +48,11 @@ namespace DiceCareer
 			app.Back();
 
 			app.Tap("Settings");
-
 			app.Tap("tl_notification");
 			app.Tap("tl_loc_service");
 
-
-
+			app.Tap("tv_privacy_policy");
+			app.ScrollDown();
 		}
 	}
 }
