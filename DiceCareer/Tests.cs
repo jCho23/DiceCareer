@@ -37,7 +37,7 @@ namespace DiceCareer
 			app.Tap("intro_btn_next");
 			app.Tap("intro_btn_skip");
 
-
+			app.Tap("ll_dashboard_search_main");
 
 		}
 	}
