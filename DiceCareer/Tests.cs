@@ -35,6 +35,8 @@ namespace DiceCareer
 		public void FirstTest()
 		{
 			app.Tap("intro_btn_next");
+			app.Tap("intro_btn_skip");
+
 
 
 		}
