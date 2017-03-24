@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{28D4AE11-F1B8-43F7-840F-E4A07B48529A}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.DiceCareer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiceCareer/AppInitializer.cs">
+    <Files>
+      <File FileName="DiceCareer/AppInitializer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
