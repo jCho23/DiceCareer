@@ -43,6 +43,10 @@ namespace DiceCareer
 			app.Tap("navigation");
 			app.Screenshot("We Tapped on the 'Hamburger Icon' Button");
 
+			app.Tap("Job Search");
+			app.ScrollDown();
+			app.Back();
+
 		}
 	}
 }
