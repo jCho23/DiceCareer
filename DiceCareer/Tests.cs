@@ -54,6 +54,7 @@ namespace DiceCareer
 
 			app.Tap("tv_privacy_policy");
 			app.ScrollDown();
+			app.Screenshot("Then we scrolled down the page");
 		}
 	}
 }
